@@ -14,7 +14,7 @@
 
 ---
 
-### 📌 About Me
+###  About Me
 
 - 🔭 **Currently Building**: **[InternSync](https://github.com/Diabyy/InternSync)** (Mentorship & blocker management for interns) & **[Calora](https://github.com/Diabyy/Calora)** (Fitness & nutrition engine with Gemini AI).
 - 🔬 **Research & Applied ML**: **[SignSense](https://github.com/Diabyy/SignSense)** — Real-time browser-based BISINDO & ASL static sign recognition pipeline.
@@ -23,7 +23,7 @@
 
 ---
 
-### 🚀 Featured Engineering Projects
+###  Featured Engineering Projects
 
 | Project | Description | Stack | Status / Demo |
 | :--- | :--- | :--- | :--- |
@@ -33,7 +33,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+###  Tech Stack & Tooling
 
 <table>
   <tr>
@@ -89,7 +89,7 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+###  GitHub Activity & Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Diabyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="155" />
