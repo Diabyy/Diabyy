@@ -108,6 +108,4 @@
 
 ---
 
-<div align="center">
-  <sub>Crafted with passion for engineering and clean architecture • <strong>Adib Diabi</strong></sub>
-</div>
+
