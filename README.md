@@ -63,8 +63,3 @@
   </picture>
 </div>
 
----
-
-<div align="center">
-  <sub>Engineered with precision • <strong>Adib Diabi</strong></sub>
-</div>
