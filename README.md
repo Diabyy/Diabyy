@@ -2,98 +2,56 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Adib+Diabi+%F0%9F%91%8B;Full-Stack+Web+Developer;Applied+Machine+Learning+Explorer;Building+InternSync+%26+Calora" alt="Typing SVG" />
 
   <p align="center">
-    <strong>Software Engineer</strong> focused on modern full-stack web applications, type-safe systems, and practical machine learning.
+    <strong>Software Engineer</strong> crafting type-safe web systems, real-time interfaces, and applied AI pipelines.
   </p>
 
   <p align="center">
-    <a href="mailto:adibdiabi2009@gmail.com"><img src="https://img.shields.io/badge/Email-adibdiabi2009%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/Diabyy"><img src="https://img.shields.io/badge/GitHub-Diabyy-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://intern-sync-opal.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-InternSync-000000?style=flat-square&logo=vercel&logoColor=white" alt="Demo" /></a>
+    <a href="mailto:adibdiabi2009@gmail.com"><img src="https://img.shields.io/badge/Email-adibdiabi2009%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://intern-sync-opal.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-InternSync-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" /></a>
+    <a href="https://signsense-delta.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-SignSense-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="Demo" /></a>
   </p>
 </div>
 
 ---
 
-###  About Me
+### 🛠️ Tech Stack & Skills
 
-- 🔭 **Currently Building**: **[InternSync](https://github.com/Diabyy/InternSync)** (Mentorship & blocker management for interns) & **[Calora](https://github.com/Diabyy/Calora)** (Fitness & nutrition engine with Gemini AI).
-- 🔬 **Research & Applied ML**: **[SignSense](https://github.com/Diabyy/SignSense)** — Real-time browser-based BISINDO & ASL static sign recognition pipeline.
-- 💼 **Experience**: Research & Exploration Intern at **Enuma Technology**.
-- 🎯 **Engineering Principles**: Strict typing, deterministic architecture, clean API contracts, and responsive user experiences.
-
----
-
-###  Featured Engineering Projects
-
-| Project | Description | Stack | Status / Demo |
-| :--- | :--- | :--- | :--- |
-| **[InternSync](https://github.com/Diabyy/InternSync)** | Platform jembatan komunikasi operasional & pelaporan blocker antara peserta PKL dan pembimbing industri. | Next.js 16, React 19, TypeScript, Tailwind v4 | 🌐 [Live App](https://intern-sync-opal.vercel.app/) |
-| **[Calora](https://github.com/Diabyy/Calora)** | Smart fitness & nutrition tracker terintegrasi database pangan Indonesia (TKPI) dan pelacakan rute GPS live di browser. | Laravel 11, React 19, Inertia.js, Gemini Vision | ⚡ [Repository](https://github.com/Diabyy/Calora) |
-| **[SignSense](https://github.com/Diabyy/SignSense)** | Prototipe pengenalan alfabet statis BISINDO & ASL via webcam dengan inferensi MediaPipe langsung di browser. | Python 3.12, MediaPipe, React, Vite | 🌐 [Live App](https://signsense-delta.vercel.app/) |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,laravel,php,python,opencv,docker,linux,githubactions,vercel,sqlite&perline=7&theme=dark" alt="Tech Skills" />
+  </a>
+</p>
 
 ---
 
-###  Tech Stack & Tooling
+### 🚀 Featured Engineering Projects
 
-<table>
-  <tr>
-    <td align="left" width="180"><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left"><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left"><strong>Backend & Systems</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left"><strong>AI & Data Science</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left"><strong>DevOps & Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    </td>
-  </tr>
-</table>
+#### 🔹 [InternSync](https://github.com/Diabyy/InternSync) — Smart Mentorship & Blocker Manager
+> Jembatan komunikasi operasional dan pelaporan kendala teknis terstruktur bagi peserta PKL dan pembimbing lapangan.
+- **Tech Stack**: Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS v4.
+- **Highlights**: Dual-role experience, state sinkronisasi real-time dengan fallback local storage, pelaporan blocker terstruktur/anonim.
+- 🔗 **[Explore Repository](https://github.com/Diabyy/InternSync)** • **[Live Demo](https://intern-sync-opal.vercel.app/)**
+
+#### 🔹 [Calora](https://github.com/Diabyy/Calora) — Fitness, Nutrition & Live GPS Engine
+> Platform pelacak nutrisi makanan lokal Indonesia (TKPI) dan perekaman rute aktivitas fisik langsung dari browser.
+- **Tech Stack**: Laravel 11, React 19, Inertia.js v2, Tailwind CSS v4, Google Gemini Vision API, Leaflet.js.
+- **Highlights**: Zero-cost visual food scanner contract, server-side Haversine jitter filtering, Screen Wake Lock API.
+- 🔗 **[Explore Repository](https://github.com/Diabyy/Calora)**
+
+#### 🔹 [SignSense](https://github.com/Diabyy/SignSense) — In-Browser Sign Language Recognition
+> Prototipe akademik pengenalan alfabet statis BISINDO & ASL langsung dari webcam tanpa pengunggahan frame ke server.
+- **Tech Stack**: Python 3.12, MediaPipe, OpenCV, Scikit-Learn, React, Vite.
+- **Highlights**: Client-side landmark inference, strict Content Security Policy, reproducible pipeline manifests.
+- 🔗 **[Explore Repository](https://github.com/Diabyy/SignSense)** • **[Live Demo](https://signsense-delta.vercel.app/)**
 
 ---
 
-###  GitHub Activity & Metrics
+### 📊 Engineering Metrics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diabyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diabyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Diabyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=Diabyy&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diabyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
 </div>
 
 <br />
@@ -108,4 +66,6 @@
 
 ---
 
-
+<div align="center">
+  <sub>Engineered with precision • <strong>Adib Diabi</strong></sub>
+</div>
