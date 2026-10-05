@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
+###  Tech Stack & Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@
 
 ---
 
-### 🚀 Featured Engineering Projects
+###  Featured Engineering Projects
 
 #### 🔹 [InternSync](https://github.com/Diabyy/InternSync) — Smart Mentorship & Blocker Manager
 > Jembatan komunikasi operasional dan pelaporan kendala teknis terstruktur bagi peserta PKL dan pembimbing lapangan.
@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 Engineering Metrics & Activity
+###  Engineering Metrics & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Diabyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
